@@ -1,3 +1,5 @@
  - Avocados
  - onions
  - salt
+ - tomatoes
+ - lime juice
