@@ -1,4 +1,5 @@
 1. mash the avocado
 2. cut the tomato
 3. cut the cilantro
+<<<<<<< HEAD
 4. add salt. mix the ingredients together 
